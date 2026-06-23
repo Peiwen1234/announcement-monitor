@@ -19,7 +19,10 @@
     "http://wap.sasac.gov.cn/n2588035/n2588325/n2588350/c35428690/content.html",
     "http://www.sasac.gov.cn/n4470048/n29955503/n30655200/c30655596/content.html",
     "http://www.sasac.gov.cn/n4470048/n29955503/n30655200/c30656020/content.html",
-    "http://wap.sasac.gov.cn/n2588035/n2588325/n2588350/c33896363/content.html"
+    "http://wap.sasac.gov.cn/n2588035/n2588325/n2588350/c33896363/content.html",
+    "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/c33035013/content.html",
+    "http://www.sasac.gov.cn/n4470048/n29955503/n30655200/c30655960/content.html",
+    "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/c26727669/content.html"
   ],
   "mohrss.gov.cn": [
     "https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202503/t20250317_538669.html",
@@ -29,7 +32,8 @@
     "https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202303/t20230303_496191.html",
     "https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202503/t20250318_538738.html",
     "https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202012/t20201203_401610.html",
-    "http://job.mohrss.gov.cn/sydwgg/122046.jhtml"
+    "http://job.mohrss.gov.cn/sydwgg/122046.jhtml",
+    "https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202503/t20250325_539215.html"
   ],
   "rsc.buaa.edu.cn": [
     "http://rsc.buaa.edu.cn/zpxg/xmpyry/zpxx/158.htm",
@@ -41,5 +45,16 @@
     "https://rsc.buaa.edu.cn/jlzx/fpry/zlxz.htm",
     "https://rsc.buaa.edu.cn/info/1049/5696.htm",
     "https://rsc.buaa.edu.cn/zpxg/jsg/zpxx.htm"
+  ],
+  "rsj.beijing.gov.cn": [
+    "https://rsj.beijing.gov.cn/xxgk/gkzp/202511/t20251120_4289003.html",
+    "https://rsj.beijing.gov.cn/xxgk/gkzp/202510/t20251029_4243196.html",
+    "https://rsj.beijing.gov.cn/xxgk/gkzp/202503/t20250305_4025503.html",
+    "https://rsj.beijing.gov.cn/xxgk/gkzp/202503/t20250319_4038269.html",
+    "https://rsj.beijing.gov.cn/xxgk/gkzp/202603/t20260316_4557659.html",
+    "https://rsj.beijing.gov.cn/xxgk/gkzp/202603/t20260316_4557762.html",
+    "https://rsj.beijing.gov.cn/xxgk/gkzp/202603/t20260316_4557780.html",
+    "https://rsj.beijing.gov.cn/xxgk/gkzp/202603/t20260316_4557711.html",
+    "https://rsj.beijing.gov.cn/xxgk/gkzp/202603/t20260317_4558902.html"
   ]
 }

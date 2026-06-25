@@ -19,7 +19,8 @@
     "https://www.nda.gov.cn/sjj/swdt/mtsy/0507/20260507215652364649195_pc.html",
     "https://www.nda.gov.cn/sjj/zwgk/tzgg/0428/20260428215540161552208_pc.html",
     "https://www.nda.gov.cn/sjj/zwgk/tzgg/0428/20260428220209933822212_pc.html",
-    "https://www.nda.gov.cn/sjj/ywpd/sjzy/0604/20260604132438198262887_pc.html"
+    "https://www.nda.gov.cn/sjj/ywpd/sjzy/0604/20260604132438198262887_pc.html",
+    "https://www.nda.gov.cn/sjj/zwgk/tzgg/0427/20260427194243782883135_pc.html"
   ],
   "新华网": [
     "http://www3.xinhuanet.com/tech/20260602/24569be0de404f839f1d146ef6446ae9/c.html",
@@ -37,7 +38,8 @@
     "https://www.news.cn/tech/20251215/a7e3901ef71042938fcce0ff1206a881/c.html",
     "http://www.news.cn/info/20260602/c8fcb7302f1840aea0d893514b3c609a/c.html",
     "http://www.xinhuanet.com/tech/20260622/20ac2af7c26643af9daa223e5ae9916a/c.html",
-    "https://app.xinhuanet.com/news/article.html?articleId=aa653c9fac0b2f0c1acce8f4a941ef09"
+    "https://app.xinhuanet.com/news/article.html?articleId=aa653c9fac0b2f0c1acce8f4a941ef09",
+    "https://www.news.cn/fortune/20260429/4c05cb7bf45e4a079782ca544889f7ce/c.html"
   ],
   "人民网": [
     "http://finance.people.com.cn/n1/2026/0616/c1004-40741643.html",
@@ -62,6 +64,9 @@
     "http://www.sasac.gov.cn/n2588025/n2643314/c35406629/content.html",
     "http://www.sasac.gov.cn/n2588025/n2588124/c35452428/content.html",
     "http://www.sasac.gov.cn/n2588025/n2588139/c35175140/content.html",
+    "http://www.sasac.gov.cn/n2588025/n2588124/c35489452/content.html",
+    "http://wap.sasac.gov.cn/n2588025/n2588124/c35460031/content.html",
+    "http://www.sasac.gov.cn/n2588025/n2588124/c35461416/content.html",
     "https://news.qq.com/rain/a/20260620A027WL00",
     "https://news.qq.com/rain/a/20251127A069LD00",
     "https://www.21jingji.com/article/20260128/herald/61e43285912d1d65822c30b36ec55b71.html",
@@ -81,6 +86,7 @@
     "https://stcn.com/article/detail/3942722.html",
     "https://www.stcn.com/article/detail/3556685.html",
     "https://www.stcn.com/article/detail/3584722.html",
+    "https://www.stcn.com/article/detail/3973302.html",
     "https://www.shui5.cn/article/8e/192652.html",
     "https://www.cnfin.com/yw-lb/detail/20260601/4419888_1.html",
     "https://www.sohu.com/a/1030117111_480400",
@@ -106,17 +112,21 @@
   "国务院发展研究中心": [
     "https://www.drc.gov.cn/DocView.aspx?chnid=379&leafid=1338&docid=2909630",
     "https://www.drc.gov.cn/DocView.aspx?chnid=379&leafid=1338&docid=2909986",
-    "https://www.drc.gov.cn/DocView.aspx?chnid=379&leafid=1338&docid=2909963"
+    "https://www.drc.gov.cn/DocView.aspx?chnid=379&leafid=1338&docid=2909963",
+    "https://www.drc.gov.cn/DocViewH5.aspx?chnid=379&leafid=1338&docid=2909984",
+    "https://www.drc.gov.cn/DocView.aspx?chnid=382&leafid=1346&docid=2909286"
   ],
   "中国经济网": [
-    "http://district.ce.cn/newarea/sddy/202606/t20260618_3039189.shtml"
+    "http://district.ce.cn/newarea/sddy/202606/t20260618_3039189.shtml",
+    "http://paper.ce.cn/pad/content/202606/15/content_334248.html"
   ],
   "澎湃新闻": [
     "https://m.thepaper.cn/newsDetail_forward_30365497",
     "https://m.thepaper.cn/newsDetail_forward_32319271",
     "https://www.thepaper.cn/newsDetail_forward_33277059",
     "https://m.thepaper.cn/detail/31394696",
-    "https://www.thepaper.cn/newsDetail_forward_30111193"
+    "https://www.thepaper.cn/newsDetail_forward_30111193",
+    "https://m.thepaper.cn/newsDetail_forward_33134664"
   ],
   "央视网": [
     "https://tv.cctv.com/2026/06/02/VIDEbkmXxwwEls13YJhqhvAP260602.shtml",
@@ -134,6 +144,9 @@
     "https://view.inews.qq.com/a/20260103A04EUX00",
     "https://www.stcn.com/article/detail/3600232.html",
     "http://www.idtbank.com/index.php?m=home&c=View&a=index&aid=187",
-    "https://finance.sina.com.cn/roll/2026-06-24/doc-inienpna6320075.shtml"
+    "https://finance.sina.com.cn/roll/2026-06-24/doc-inienpna6320075.shtml",
+    "https://finance.sina.com.cn/roll/2026-06-25/doc-inieqnch2558732.shtml",
+    "https://www.cnfin.com/yw-lb/detail/20260609/4423894_1.html",
+    "https://finance.sina.cn/2026-06-10/detail-iniawpmz4601471.d.html"
   ]
 }
